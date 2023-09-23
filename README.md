@@ -1,2 +1,2 @@
 # CODSOFT
-CODSOFT - Data Science Internship Project 
+CODSOFT - Data Science Internship Projects
